@@ -64,7 +64,12 @@ This program has not been implemented with a cluster algorithm. It can be implem
 
 ## Does your program represent a deep learning model / artificial neural network? If so, how is 'back propagation of errors' used?
 
-The program uses an artificial neural network.
+Artificial neural networks, usually simply called neural networks, are computing systems inspired by the biological neural networks that constitute animal brains. An ANN is based on a collection of connected units or nodes called artificial neurons, which loosely model the neurons in a biological brain.
+
+The program uses an artificial neural network, as it has more than three layers, which indicates that the program has neural network. Each layer of the program checks one of the features of the program.
+
+Back propagation of error has been implemented in this program by applying a gradient descent which calculalates the gradient of the error function with respect to gradient networks weight.
+
 
 
 
