@@ -24,6 +24,9 @@ This model does not include reinforcement learning. In order to adapt to reinfor
 
 ## Explain if your chosen model is a clustering / (linear? multiple?) regression / classification algorithm. Again - for any model that your program does not fit into, suggest how it could be adapted / altered to do so.
 
+
+The Classification algorithm is a Supervised Learning technique that is used to identify the category of new observations on the basis of training data. In Classification, a program learns from the given dataset or observations and then classifies new observation into a number of classes or groups.
+
 It is a classification algorithm built to classify different types of flowers by training itself with its database which has upto 3670 images of flowers. 
 
 Epoch 1/10
@@ -55,6 +58,13 @@ This program cannot be implemented with a regression algorithm as shown in the p
 Cluster analysis, or clustering, is an unsupervised machine learning task. It involves automatically discovering natural grouping in data. Unlike supervised learning (like predictive modeling), clustering algorithms only interpret the input data and find natural groups or clusters in feature space.
 
 This program has not been implemented with a cluster algorithm. It can be implemented by not seperating the data inputs into different subsets and rather target on data clusters or groups.
+
 ![image](https://user-images.githubusercontent.com/84967025/156685064-6dd6d8f2-1e8d-4308-b908-8fcad4fd86be.png)
+
+
+## Does your program represent a deep learning model / artificial neural network? If so, how is 'back propagation of errors' used?
+
+The program uses an artificial neural network.
+
 
 
