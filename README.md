@@ -68,8 +68,11 @@ Artificial neural networks, usually simply called neural networks, are computing
 
 The program uses an artificial neural network, as it has more than three layers, which indicates that the program has neural network. Each layer of the program checks one of the features of the program.
 
+![image](https://user-images.githubusercontent.com/84967025/156693198-0be143ca-abc3-44c0-860d-a1306e5ab4c4.png)
+
 Back propagation of error has been implemented in this program by applying a gradient descent which calculalates the gradient of the error function with respect to gradient networks weight.
 
+![image](https://user-images.githubusercontent.com/84967025/156693278-832a98ed-2639-4e5a-8141-b00062b5753a.png)
 
 
 
