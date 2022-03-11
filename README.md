@@ -1,6 +1,7 @@
 # Machine-Learning-Project
 
 The machine-learning model is based on a task to identify images of flowers with different features.
+Resources taken from Tensorflow : https://www.tensorflow.org/tutorials/images/classification
 
 ## Is the model based on supervised learning?
 
